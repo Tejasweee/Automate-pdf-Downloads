@@ -116,4 +116,4 @@ if __name__ == '__main__':
     extractor(sites)
 
 endtime= time.time()
-print('Total time taken by download is', starttime-endtime)
+print('Total time taken by download is', endtime-starttime)
