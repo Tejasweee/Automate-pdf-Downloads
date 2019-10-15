@@ -19,5 +19,3 @@ python getpdf.py, afile1.html, afile2.html, afile3.html...
 python getpdf.py
 
 -- Now arguments can be passed in the input prompt
-
-This script needs 'pandas' library to run. If pandas library is not installed this script will automatically try to install pandas first using pip.
